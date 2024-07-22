@@ -78,7 +78,6 @@ Data augmentation techniques were applied to increase the size and variability o
 
 The results of the experiments are as follows:
 
-- **Basic CNN Model**: Achieved an accuracy of X% on the test set.
-- **VGG-16 Transfer Learning**: Achieved an accuracy of Y% on the test set.
-- **MobileNet Model**: Achieved an accuracy of Z% on the test set.
-- **Sign Language Digits Classification**: Achieved an accuracy of W% on the test set.
+- **Basic CNN Model**: Achieved an accuracy of 61% on the test set.
+- **VGG-16 Transfer Learning**: Achieved an accuracy of 94% on the test set.
+- **Sign Language Digits Classification**: Achieved an accuracy of 98% on the test set.
